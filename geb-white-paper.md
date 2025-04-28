@@ -201,11 +201,11 @@ Agere0's core responsibility is to perform structured scoring of the task execut
 * **Basic Interaction Metrics (B)**: Reflect fundamental structural characteristics of user-system interaction, such as frequency, depth, and data complexity.
     * ![B_dur](https://latex.codecogs.com/png.latex?%5Cdpi%7B150%7D%20B_%7Bdur%7D): Interaction frequency, the total number of interactions a user has with a specific Agere system.
     * ![B_dep](https://latex.codecogs.com/png.latex?%5Cdpi%7B150%7D%20B_%7Bdep%7D): Interaction depth, reflecting the contextual breadth and logical complexity of each task.
-    * ![B_in_vol](https://latex.codecogs.com/png.latex?%5Cdpi%7B150%7D%20B_%7B\text{in\_vol}%7D): Input volume, e.g., text length, size of uploaded data.
-    * ![B_out_vol](https://latex.codecogs.com/png.latex?%5Cdpi%7B150%7D%20B_%7B\text{out\_vol}%7D): Output quantity or complexity, e.g., word count of generated results, number of structures.
+    * ![B_in_vol](https://latex.codecogs.com/png.latex?%5Cdpi%7B150%7D%20B_%7B%5Ctext%7Bin%5C_vol%7D%7D): Input volume, e.g., text length, size of uploaded data.
+    * ![B_out_vol](https://latex.codecogs.com/png.latex?%5Cdpi%7B150%7D%20B_%7B%5Ctext%7Bout%5C_vol%7D%7D): Output quantity or complexity, e.g., word count of generated results, number of structures.
 * **Behavioral Quality Metrics (Q)**: Reflect subjective evaluations and execution quality of task results by users and the system.
-    * ![Q_succ_user](https://latex.codecogs.com/png.latex?%5Cdpi%7B150%7D%20Q_%7B\text{succ\_user}%7D): User task success rate. For Agere services with clear objectives, did the user successfully receive feedback? User feedback is required.
-    * ![Q_succ_agere](https://latex.codecogs.com/png.latex?%5Cdpi%7B150%7D%20Q_%7B\text{succ\_agere}%7D): Agere 0 task success rate. For Agere services with clear objectives, Agere 0 participants need to provide feedback.
+    * ![Q_succ_user](https://latex.codecogs.com/png.latex?%5Cdpi%7B150%7D%20Q_%7B%5Ctext%7Bsucc%5C_user%7D%7D): User task success rate. For Agere services with clear objectives, did the user successfully receive feedback? User feedback is required.
+    * ![Q_succ_agere](https://latex.codecogs.com/png.latex?%5Cdpi%7B150%7D%20Q_%7B%5Ctext%7Bsucc%5C_agere%7D%7D): Agere 0 task success rate. For Agere services with clear objectives, Agere 0 participants need to provide feedback.
 * **Contextual Factor Metrics (C)**: Introduce long-term behavior and exploratory features to reflect non-linear interaction patterns.
     * ![C_hist](https://latex.codecogs.com/png.latex?%5Cdpi%7B150%7D%20C_%7Bhist%7D): Historical behavior factor, measuring the stability of a user's long-term, high-quality interactions.
     * ![C_expl](https://latex.codecogs.com/png.latex?%5Cdpi%7B150%7D%20C_%7Bexpl%7D): Exploratory factor, assessing whether the user actively proposes new questions or tests boundaries, driving the evolution of system behavior.
