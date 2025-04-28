@@ -134,6 +134,9 @@ GEB generalizes this structure from block-level state construction to a broader 
 
 ## 2.4 From a Single System to Three Types of Systems: Structural Evolution
 
+![image](https://github.com/user-attachments/assets/d3734836-151b-448a-b862-b0a80b5b9ebb)
+
+
 Traditional blockchain systems (like Ethereum) are built solely upon closed execution systems. The account model uniformly manages assets and permissions, external data relies on oracle injections, and they lack structural mapping for user behavior and reality perception capabilities. Despite possessing near Turing completeness, their structural paradigm still belongs to that of a **single formal system**, making it difficult to form a feedback loop oriented towards reality.
 
 GEB introduces three functionally decoupled formal subsystems on this basis:
@@ -171,6 +174,9 @@ These three components form a structural closed loop through asynchronous collab
 Therefore, GEB is not merely an extension or parameter upgrade of `BEVM(λ)` but a **paradigm evolution from formal modeling to a structural closed loop**. Its core lies not in enhancing the system's internal expressive power, but in constructing a **Complex Adaptive System** with real-world perceptual capabilities.
 
 # 4. GEB System Architecture: A Structurally Closed-Loop Design Based on Heterogeneous Collaboration
+
+![image](https://github.com/user-attachments/assets/cc240d93-8da3-4668-8790-1c129dfc6392)
+
 
 Building upon the theoretical foundations established in the previous chapters, this chapter systematically reconstructs the BitAgere mechanism from the original `BEVM(λ)` architecture. Unlike the layered "mother consensus-child consensus" design of the old architecture, GEB integrates it into a unified **heterogeneous collaborative network** composed of multiple **Agere subsystems**. This network revolves around four key stages: **task generation—human-computer interaction—structural verification—state writing**, aiming to achieve the system's responsiveness to real-world inputs and its capacity for structural evolution.
 
