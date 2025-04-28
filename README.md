@@ -1,4 +1,5 @@
 # GEB-white-paper
+`version: v1.0.0` 
 
 ## Progress and Outstanding Challenges
 
