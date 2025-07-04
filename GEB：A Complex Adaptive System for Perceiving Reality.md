@@ -348,12 +348,34 @@ Finally, through a series of application examples such as BTC-RNG (random number
 
 # 7. References
 
-[1] S. Nakamoto, "Bitcoin: A Peer-to-Peer Electronic Cash System," 2008. [Online]. Available: [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
+[1] S. Nakamoto, “Bitcoin: A Peer-to-Peer Electronic Cash System,” 2008. [Online]. Available: https://bitcoin.org/bitcoin.pdf
 
-[2] K. Gödel, "Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I," *Monatshefte für Mathematik und Physik*, vol. 38, 1931, pp. 173–198.
+[2] K. Gödel, “Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I,” Monatshefte für Mathematik und Physik, vol. 38, 1931, pp. 173–198.
 
-[3] A. M. Turing, "Systems of Logic Based on Ordinals," *Proc. London Math. Soc.*, vol. s2-45, no. 1, 1939, pp. 161–228.
+[3] A. M. Turing, “Systems of Logic Based on Ordinals,” Proc. London Math. Soc., vol. s2-45, no. 1, 1939, pp. 161–228.
 
-[4] S. Feferman, "Transfinite recursive progressions of axiomatic theories," *The Journal of Symbolic Logic*, vol. 27, no. 3, 1962, pp. 259–316.
+[4] S. Feferman, "Transfinite recursive progressions of axiomatic theories," The Journal of Symbolic Logic, vol. 27, no. 3, 1962, pp. 259–316.
 
-[5] S. Feferman, "Systems of predicative analysis
+[5] S. Feferman, "Systems of predicative analysis," The Journal of Symbolic Logic, vol. 29, no. 1, 1964, pp. 1–30.
+
+[6] D. R. Hofstadter, Gödel, Escher, Bach: An Eternal Golden Braid, Basic Books, 1979.
+
+[7] S. Aaronson, "Is P Versus NP Formally Independent?" Bulletin of the EATCS, vol. 81, 2003, pp. 109–136.
+
+[8] L. Lamport, R. Shostak, and M. Pease, “The Byzantine Generals Problem,” ACM Transactions on Programming Languages and Systems (TOPLAS), vol. 4, no. 3, 1982, pp. 382–401.
+
+[9] G. Wood, “Ethereum: A Secure Decentralised Generalised Transaction Ledger,” Ethereum Project Yellow Paper, 2014.
+
+[10] V. Buterin, “A Next-Generation Smart Contract and Decentralized Application Platform,” 2014. [Online]. Available: https://ethereum.org/en/whitepaper/
+
+[11] J. Poon and T. Dryja, “The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments,” 2016. [Online]. Available: https://lightning.network/
+
+[12] A. Kiayias, A. Russell, B. David, and R. Oliynykov, “Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol,” in CRYPTO 2017, pp. 357–388.
+
+[13] Bitcoin Core Devs, “BIP-0341: Taproot: SegWit version 1 spending rules,” 2021. [Online]. Available: https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki
+
+[14] M. Wooldridge, An Introduction to MultiAgent Systems, 2nd Edition, John Wiley & Sons, 2009.
+
+[15] C. R. Darwin, On the Origin of Species, John Murray, 1859.
+
+[16] W. B. Arthur, Complexity and the Economy, Oxford University Press, 2015.
