@@ -1,4 +1,4 @@
-# GEB: A Complex Adaptive System for Perceiving Reality
+# GEB: Building A Complex Adaptive System for Perceiving Reality
 
 ## Overview
 
