@@ -98,5 +98,5 @@ Key foundational works:
 5. S. Feferman, "Systems of predicative analysis," *The Journal of Symbolic Logic*, vol. 29, no. 1, 1964, pp. 1–30.
 
 For full theoretical details and engineering specifications, see:
-- **[GEB: A Complex Adaptive System for Perceiving Reality.md](GEB：A Complex Adaptive System for Perceiving Reality.md)** (English)
-- **[GEB：一个感知现实的复杂自适应系统.md](GEB：一个感知现实的复杂自适应系统.md)** (中文)
+- **[GEB: A Complex Adaptive System for Perceiving Reality](GEB%EF%BC%9AA%20Complex%20Adaptive%20System%20for%20Perceiving%20Reality.md)** (English)
+- **[GEB：一个感知现实的复杂自适应系统](GEB%EF%BC%9A%E4%B8%80%E4%B8%AA%E6%84%9F%E7%9F%A5%E7%8E%B0%E5%AE%9E%E7%9A%84%E5%A4%8D%E6%9D%82%E8%87%AA%E9%80%82%E5%BA%94%E7%B3%BB%E7%BB%9F.md)** (中文)
